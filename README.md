@@ -1,4 +1,4 @@
-# 👩‍🎓👨‍🎓 Students Information
+# 👩‍🎓👨‍🎓 Student Information
 - RABHI Zinelaabidine 
 
 # 📑 Project information
