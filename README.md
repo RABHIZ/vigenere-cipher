@@ -12,6 +12,6 @@ table.
 * cryptanalysis use dictionary to predict the plain text
 
 # :arrow_down: Install Dependencies
-* python-3 
+* 🐍python-3 
 * visual studio code or pycharm or any editor ..
 * library we need tkinter : pip install tk
