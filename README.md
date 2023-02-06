@@ -14,4 +14,4 @@ table.
 # :arrow_down: Install Dependencies
 * 🐍 python-3 
 * 👨‍💻 visual studio code or pycharm or any editor ..
-* library we need tkinter : pip install tk
+* 📙 library we need tkinter : pip install tk
